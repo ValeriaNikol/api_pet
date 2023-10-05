@@ -1,4 +1,4 @@
-URL = "http://91.210.171.73:8080"
+URL = "http://127.0.0.1:8080/api/docs/"
 USER_PATH = "/api/token/auth/"
 ALL_ANIMALS_CATEGORY = "/api/category/"
 CATEGORY_BY_PARAMETER = "/api/category/{id}/"
